@@ -1,7 +1,7 @@
 # VPN
 # Virtual Private Network (VPN)
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img width="1440" height="919" alt="Screenshot_8-5-2026_163346_www bing com" src="https://github.com/user-attachments/assets/d351b08c-aaf0-4692-957d-95474b4cadf5" />
 </p>
 
 <h1>Virtual Private Network (VPN) </h1>
