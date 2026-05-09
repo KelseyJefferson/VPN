@@ -61,6 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
  Find your public IP address in the virtual machine. 
 </p>
 <img width="3821" height="1890" alt="screenshot-1778190957759" src="https://github.com/user-attachments/assets/986e83c4-b7c4-40a3-92c1-c846d183d9f2" />
+Find your Virtual Machines IP Address on Whatismyipaddress.com
 <p>
 <img width="3840" height="2160" alt="Annotation 2026-05-08 211605" src="https://github.com/user-attachments/assets/f75a9927-e1b9-4d01-942f-67aa463d245a" />
 
