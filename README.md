@@ -64,6 +64,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Find your Virtual Machines IP Address on Whatismyipaddress.com
 <p>
 <img width="3840" height="2160" alt="Annotation 2026-05-08 211605" src="https://github.com/user-attachments/assets/f75a9927-e1b9-4d01-942f-67aa463d245a" />
+ Connect to a VPN Server. 
+
 
 
 </p>
