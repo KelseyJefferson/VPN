@@ -52,9 +52,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img width="3558" height="1733" alt="Screenshot_29-4-2026_195739_portal azure com" src="https://github.com/user-attachments/assets/a6ad5d01-257d-48c5-b3f1-5ae1c0044ac8" />
  <img width="3558" height="1733" alt="Screenshot_29-4-2026_202227_portal azure com" src="https://github.com/user-attachments/assets/86c1391d-c5a3-4aa1-b9c8-85bf374476f2" />
  <img width="3558" height="1733" alt="Screenshot_29-4-2026_202255_portal azure com" src="https://github.com/user-attachments/assets/76a2d4f3-9f1f-49f7-a07d-6d192518c33e" />
-<img width="3558" height="1733" alt="Screenshot_29-4-2026_202255_portal azure com" src="https://github.com/user-attachments/assets/8a2eb0c4-4a9a-4c6c-a22e-84598a1bfe06" />
-
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
 </p>
 <br />
