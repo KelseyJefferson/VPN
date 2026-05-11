@@ -21,10 +21,9 @@ This tutorial shows a walkthrough on  how to use a Virtual Private Network and h
 
 <h2> VPN Process </h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+- Finding Ip address
+- Creating Virtual Machine
+- Downloading ProtonVPN
 
 <h2>Walk-Through</h2>
 
@@ -58,14 +57,17 @@ This tutorial shows a walkthrough on  how to use a Virtual Private Network and h
 <p>
  <img width="3558" height="1733" alt="Screenshot_29-4-2026_202536_portal azure com" src="https://github.com/user-attachments/assets/5221ca85-cfd5-430f-ab87-0605a3f912ed" />
 <p>
-Now find your public IP Address in your virtual machine. 
+ Now find your public IP Address in your virtual machine. 
 </p>
 <img width="3821" height="1890" alt="screenshot-1778190957759" src="https://github.com/user-attachments/assets/986e83c4-b7c4-40a3-92c1-c846d183d9f2" />
-Find your Virtual Machines IP Address on Whatismyipaddress.com
+ Find your Virtual Machines IP Address on Whatismyipaddress.com and write it down. 
 <p>
 <img width="3840" height="2160" alt="Annotation 2026-05-08 211605" src="https://github.com/user-attachments/assets/f75a9927-e1b9-4d01-942f-67aa463d245a" />
 Download ProtonVPN to your Windows 10 and Connect to the server. 
-
+<p>
+ <img width="3393" height="2937" alt="Screenshot_8-5-2026_212235_whatismyipaddress com" src="https://github.com/user-attachments/assets/42b9a6a1-bbd1-4375-a116-594daf2caa4f" />
+  Once your connected to a server, Refresh Whatismyipaddress.com and your new VPN ip dadress should pop up. Throughout this lab you should've seen the 3 times that you IP address has changed. 
+</p>
 
 
 
