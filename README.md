@@ -43,7 +43,7 @@ This tutorial shows a walkthrough on  how to use a Virtual Private Network and h
 <img width="3718" height="1828" alt="Screenshot_29-4-2026_195621_portal azure com" src="https://github.com/user-attachments/assets/f6494370-88d9-485e-b111-f4dc609a0ff2" />
 </p>
 <p>
- Next, you will create a rescource group on Microsoft Azure, then review and click create. 
+ Next, you will create a rescource group on Microsoft Azure, then review and click create. For this project, I named mines "Final Project."
 </p>
 <br />
 
@@ -51,7 +51,10 @@ This tutorial shows a walkthrough on  how to use a Virtual Private Network and h
 <img width="3558" height="1733" alt="Screenshot_29-4-2026_195739_portal azure com" src="https://github.com/user-attachments/assets/a6ad5d01-257d-48c5-b3f1-5ae1c0044ac8" />
  <img width="3558" height="1733" alt="Screenshot_29-4-2026_202227_portal azure com" src="https://github.com/user-attachments/assets/86c1391d-c5a3-4aa1-b9c8-85bf374476f2" />
  <img width="3558" height="1733" alt="Screenshot_29-4-2026_202255_portal azure com" src="https://github.com/user-attachments/assets/76a2d4f3-9f1f-49f7-a07d-6d192518c33e" />
-<p>
+</p>
+ <p>
+  After creating your resource group, you will then create your virtual machine 
+ </p>
 <p>
  <img width="3558" height="1733" alt="Screenshot_29-4-2026_202536_portal azure com" src="https://github.com/user-attachments/assets/5221ca85-cfd5-430f-ab87-0605a3f912ed" />
 <p>
