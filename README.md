@@ -34,7 +34,7 @@ This tutorial shows a walkthrough on  how to use a Virtual Private Network and h
 
 </p>
 <p>
- First, you will locate your main IP Address on Wheresmyipaddress.com.
+ First, you will locate your main IP Address on Wheresmyipaddress.com. And copy it down for future reference. 
 <br />
 
 <p>
@@ -43,7 +43,7 @@ This tutorial shows a walkthrough on  how to use a Virtual Private Network and h
 <img width="3718" height="1828" alt="Screenshot_29-4-2026_195621_portal azure com" src="https://github.com/user-attachments/assets/f6494370-88d9-485e-b111-f4dc609a0ff2" />
 </p>
 <p>
- Next, you will create a rescource group on Microsoft Azure, Make sure you review and hit create. 
+ Next, you will create a rescource group on Microsoft Azure, then review and click create. 
 </p>
 <br />
 
