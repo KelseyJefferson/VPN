@@ -41,7 +41,7 @@ This tutorial shows a walkthrough on  how to use a Virtual Private Network and h
 <img width="3718" height="1828" alt="Screenshot_29-4-2026_195621_portal azure com" src="https://github.com/user-attachments/assets/f6494370-88d9-485e-b111-f4dc609a0ff2" />
 </p>
 <p>
- Next, you will create a resource group on Microsoft Azure by clicking the resource tab in the left-hand corner. You will then title your group "Final Project", click review, and when everything looks correct, click create.
+ Next, you will create a resource group on Microsoft Azure by clicking the resource tab in the left-hand corner. You will then title your group "VPN_LABS", click review, and when everything looks correct, click create.
 </p>
 <br />
 
@@ -52,15 +52,14 @@ This tutorial shows a walkthrough on  how to use a Virtual Private Network and h
  <img width="3558" height="1733" alt="Screenshot_29-4-2026_202255_portal azure com" src="https://github.com/user-attachments/assets/76a2d4f3-9f1f-49f7-a07d-6d192518c33e" />
 </p>
  <p>
-  After creating your resource group, you will then create your virtual machine you can set you re and connect to Windows 10. Next, you will also create your username and password. And then you will hit review and create. 
+  After creating your resource group, you will then create your virtual machine. You will put your subscription in the resource group that you created. Next you will set your region to (US) West US 3 and have it set to Zone 1, you will create you username and password to whatever you may like. Connect to Windows 10, then click Review and Create. 
  </p>
 
 
 <p>
  <img width="3558" height="1733" alt="Screenshot_29-4-2026_202536_portal azure com" src="https://github.com/user-attachments/assets/5221ca85-cfd5-430f-ab87-0605a3f912ed" />
 <p>
- Now find your public IP Address in your virtual machine. 
-
+ Once your virutal machine is up and running you will 
 </p>
 <img width="3821" height="1890" alt="screenshot-1778190957759" src="https://github.com/user-attachments/assets/986e83c4-b7c4-40a3-92c1-c846d183d9f2" />
  Find your Virtual Machines IP Address on Whatismyipaddress.com and write it down. 
