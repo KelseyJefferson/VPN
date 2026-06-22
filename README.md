@@ -1,9 +1,8 @@
-# Virtual Private Network (VPN)
+# Using a VPN Through an Azure Virtual Machine 
 <p align="center">
 <img width="1440" height="919" alt="Screenshot_8-5-2026_163346_www bing com" src="https://github.com/user-attachments/assets/d351b08c-aaf0-4692-957d-95474b4cadf5" />
 </p>
 
-<h1> Using a VPN Through an Azure Virtual Machine </h1>
 This tutorial shows a walkthrough on  how to use a Virtual Private Network and how it changes your IP Address.<br />
 
 
