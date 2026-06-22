@@ -1,10 +1,9 @@
-# VPN
 # Virtual Private Network (VPN)
 <p align="center">
 <img width="1440" height="919" alt="Screenshot_8-5-2026_163346_www bing com" src="https://github.com/user-attachments/assets/d351b08c-aaf0-4692-957d-95474b4cadf5" />
 </p>
 
-<h1>Virtual Private Network (VPN) </h1>
+<h1> Impletmenting a VPN </h1>
 This tutorial shows a walkthrough on  how to use a Virtual Private Network and how it changes your IP Address.<br />
 
 
@@ -21,8 +20,8 @@ This tutorial shows a walkthrough on  how to use a Virtual Private Network and h
 
 <h2> VPN Process </h2>
 
-- Finding Ip address
-- Creating Virtual Machine
+- Finding IP address
+- Creating a Virtual Machine
 - Downloading ProtonVPN
 
 <h2>Walk-Through</h2>
@@ -42,7 +41,7 @@ This tutorial shows a walkthrough on  how to use a Virtual Private Network and h
 <img width="3718" height="1828" alt="Screenshot_29-4-2026_195621_portal azure com" src="https://github.com/user-attachments/assets/f6494370-88d9-485e-b111-f4dc609a0ff2" />
 </p>
 <p>
- Next, you will create a rescource group on Microsoft Azure, then review and click create. For this project, I named mines "Final Project."
+ Next, you will create a resource group on Microsoft Azure, then review and click Create. For this project, I named mines "Final Project."
 </p>
 <br />
 
