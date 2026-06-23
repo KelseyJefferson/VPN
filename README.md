@@ -42,16 +42,14 @@ This tutorial shows a walkthrough on  how to use a Virtual Private Network and h
 
 
 <p>
+ After creating your resource group, you will then create your virtual machine. You will put your subscription in the resource group that you created. Next, set your region to (US) West US 3 and set it to Zone 1. You will create your username and password however you like. Connect to Windows 10, then click Review and Create. 
 <img width="3558" height="1733" alt="Screenshot_29-4-2026_195739_portal azure com" src="https://github.com/user-attachments/assets/a6ad5d01-257d-48c5-b3f1-5ae1c0044ac8" />
  <img width="3558" height="1733" alt="Screenshot_29-4-2026_202227_portal azure com" src="https://github.com/user-attachments/assets/86c1391d-c5a3-4aa1-b9c8-85bf374476f2" />
  <img width="3558" height="1733" alt="Screenshot_29-4-2026_202255_portal azure com" src="https://github.com/user-attachments/assets/76a2d4f3-9f1f-49f7-a07d-6d192518c33e" />
-</p>
- <p>
-  After creating your resource group, you will then create your virtual machine. You will put your subscription in the resource group that you created. Next you will set your region to (US) West US 3 and have it set to Zone 1, you will create you username and password to whatever you may like. Connect to Windows 10, then click Review and Create. 
  </p>
 
 
-<p>
+  Once your virtual machine is up and running, you will 
  <img width="3558" height="1733" alt="Screenshot_29-4-2026_202536_portal azure com" src="https://github.com/user-attachments/assets/5221ca85-cfd5-430f-ab87-0605a3f912ed" />
 <p>
  Once your virutal machine is up and running you will 
