@@ -26,22 +26,17 @@ This tutorial shows a walkthrough on  how to use a Virtual Private Network and h
 <h2>Walk-Through</h2>
 
 <p>
-
-<img width="3800" height="1851" alt="screenshot-1778342764410" src="https://github.com/user-attachments/assets/f379e1e1-97ca-479a-a606-e8a5edc60254" />
-
-</p>
-<p>
  First, you will locate your main IP Address on Wheresmyipaddress.com. You will copy down your IPv4 for future reference. 
+
+ <img width="3800" height="1851" alt="screenshot-1778342764410" src="https://github.com/user-attachments/assets/f379e1e1-97ca-479a-a606-e8a5edc60254" />
 <br />
 
 
 <p>
+  Next, you will create a resource group on Microsoft Azure by clicking the resource tab in the left-hand corner. You will then title your group "VPN_LABS", click review, and when everything looks correct, click create.
 <img width="3558" height="1733" alt="Screenshot_22-6-2026_18457_portal azure com" src="https://github.com/user-attachments/assets/f49b05c9-a1b6-4df7-8938-ada3bc58e5f4" />
 <img width="3823" height="2146" alt="screenshot-1" src="https://github.com/user-attachments/assets/61d579bf-364b-413d-a697-d874378186e6" />
 <img width="3718" height="1828" alt="Screenshot_29-4-2026_195621_portal azure com" src="https://github.com/user-attachments/assets/f6494370-88d9-485e-b111-f4dc609a0ff2" />
-</p>
-<p>
- Next, you will create a resource group on Microsoft Azure by clicking the resource tab in the left-hand corner. You will then title your group "VPN_LABS", click review, and when everything looks correct, click create.
 </p>
 <br />
 
