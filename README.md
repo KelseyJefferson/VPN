@@ -49,10 +49,11 @@ This tutorial shows a walkthrough on  how to use a Virtual Private Network and h
  </p>
 
 
-  Once your virtual machine is up and running, you will 
+  Once your virtual machine is up and running, you will log in to your remote desktop connection with your virtual machine's public network and open your browser. You will pull back up Whatismyipaddress.com and locate your virtual machine's IPv4 address. 
+  
+ <img width="3798" height="1973" alt="Screenshot 2026-06-22 192805" src="https://github.com/user-attachments/assets/664e0ae1-51c4-4681-bc0e-36f6849bbf62" />
  <img width="3558" height="1733" alt="Screenshot_29-4-2026_202536_portal azure com" src="https://github.com/user-attachments/assets/5221ca85-cfd5-430f-ab87-0605a3f912ed" />
-<p>
- Once your virutal machine is up and running you will 
+
 </p>
 <img width="3821" height="1890" alt="screenshot-1778190957759" src="https://github.com/user-attachments/assets/986e83c4-b7c4-40a3-92c1-c846d183d9f2" />
  Find your Virtual Machines IP Address on Whatismyipaddress.com and write it down. 
