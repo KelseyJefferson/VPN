@@ -53,19 +53,17 @@ This tutorial shows a walkthrough on  how to use a Virtual Private Network and h
 <img width="3813" height="2045" alt="Screenshot 2026-06-24 164418" src="https://github.com/user-attachments/assets/ece97c70-c561-4da7-b846-c7ea84767494" />
 <img width="2250" height="1389" alt="Screenshot 2026-06-24 164452" src="https://github.com/user-attachments/assets/a57bf52b-3757-4dba-98ae-84afcfdda015" />
 <img width="2536" height="1472" alt="Screenshot 2026-06-24 165017" src="https://github.com/user-attachments/assets/c54ffb9d-ecfd-46b8-9359-00f58af91cc8" />
-
-</p>
-Find your Virtual Machines IP Address on Whatismyipaddress.com and write it down. 
-<img width="3821" height="1890" alt="screenshot-1778190957759" src="https://github.com/user-attachments/assets/986e83c4-b7c4-40a3-92c1-c846d183d9f2" />
-
+<img width="3766" height="2034" alt="Screenshot 2026-06-24 165125" src="https://github.com/user-attachments/assets/58f179a9-a539-4a1d-8708-fb28b50a760b" />
+<img width="3775" height="2047" alt="Screenshot 2026-06-24 165257" src="https://github.com/user-attachments/assets/2cc7745a-0726-4c04-b0da-364a9e3412a9" />
 
 <p>
  Download ProtonVPN to your Windows 10 and Connect to the server. 
-<img width="3840" height="2160" alt="Annotation 2026-05-08 211605" src="https://github.com/user-attachments/assets/f75a9927-e1b9-4d01-942f-67aa463d245a" />
-
+ <img width="3825" height="2061" alt="Screenshot 2026-06-24 170113" src="https://github.com/user-attachments/assets/7419b7e3-58fd-44ce-a06a-89dcacfde2ab" />
+<img width="3811" height="2020" alt="Screenshot 2026-06-24 170147" src="https://github.com/user-attachments/assets/e64a3f09-b906-49c6-9b1f-6f392fce2422" />
+<img width="3199" height="1412" alt="image" src="https://github.com/user-attachments/assets/1bf9332f-0ff1-4ead-a487-fb6f2d6917f3" />
 
 <p>
-  Once your connected to a server, Refresh Whatismyipaddress.com and your new VPN ip dadress should pop up. Throughout this lab you should've seen the 3 times that you IP address has changed.
+  Once your connected to a server, Refresh Whatismyipaddress.com and your new VPN ip dadress should pop up. Throughout this lab, you should've seen the 3 times that your IP address has changed.
  <img width="3393" height="2937" alt="Screenshot_8-5-2026_212235_whatismyipaddress com" src="https://github.com/user-attachments/assets/42b9a6a1-bbd1-4375-a116-594daf2caa4f" />
   
 </p>
