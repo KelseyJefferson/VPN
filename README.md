@@ -55,21 +55,21 @@ This tutorial shows a walkthrough on  how to use a Virtual Private Network and h
 <img width="2536" height="1472" alt="Screenshot 2026-06-24 165017" src="https://github.com/user-attachments/assets/c54ffb9d-ecfd-46b8-9359-00f58af91cc8" />
 
 </p>
+Find your Virtual Machines IP Address on Whatismyipaddress.com and write it down. 
 <img width="3821" height="1890" alt="screenshot-1778190957759" src="https://github.com/user-attachments/assets/986e83c4-b7c4-40a3-92c1-c846d183d9f2" />
- Find your Virtual Machines IP Address on Whatismyipaddress.com and write it down. 
+
 
 <p>
+ Download ProtonVPN to your Windows 10 and Connect to the server. 
 <img width="3840" height="2160" alt="Annotation 2026-05-08 211605" src="https://github.com/user-attachments/assets/f75a9927-e1b9-4d01-942f-67aa463d245a" />
-Download ProtonVPN to your Windows 10 and Connect to the server. 
+
 
 <p>
+  Once your connected to a server, Refresh Whatismyipaddress.com and your new VPN ip dadress should pop up. Throughout this lab you should've seen the 3 times that you IP address has changed.
  <img width="3393" height="2937" alt="Screenshot_8-5-2026_212235_whatismyipaddress com" src="https://github.com/user-attachments/assets/42b9a6a1-bbd1-4375-a116-594daf2caa4f" />
-  Once your connected to a server, Refresh Whatismyipaddress.com and your new VPN ip dadress should pop up. Throughout this lab you should've seen the 3 times that you IP address has changed. 
+  
 </p>
 
-
-
-</p>
 
 
 </p>
