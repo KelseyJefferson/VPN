@@ -50,11 +50,9 @@ This tutorial shows a walkthrough on  how to use a Virtual Private Network and h
 
 
   Once your virtual machine is up and running, you will log in to your remote desktop connection with your virtual machine's public network and open your browser. You will pull back up Whatismyipaddress.com and locate your virtual machine's IPv4 address. 
-
-<img width="2458" height="1536" alt="image" src="https://github.com/user-attachments/assets/8310713c-65e3-4214-be34-610605d85320" />
-<img width="2250" height="1389" alt="Screenshot 2026-06-24 164452" src="https://github.com/user-attachments/assets/c489aa3e-f733-4035-b2b8-014b91dc608f" />
-
-  
+<img width="3813" height="2045" alt="Screenshot 2026-06-24 164418" src="https://github.com/user-attachments/assets/ece97c70-c561-4da7-b846-c7ea84767494" />
+<img width="2250" height="1389" alt="Screenshot 2026-06-24 164452" src="https://github.com/user-attachments/assets/a57bf52b-3757-4dba-98ae-84afcfdda015" />
+<img width="2536" height="1472" alt="Screenshot 2026-06-24 165017" src="https://github.com/user-attachments/assets/c54ffb9d-ecfd-46b8-9359-00f58af91cc8" />
 
 </p>
 <img width="3821" height="1890" alt="screenshot-1778190957759" src="https://github.com/user-attachments/assets/986e83c4-b7c4-40a3-92c1-c846d183d9f2" />
