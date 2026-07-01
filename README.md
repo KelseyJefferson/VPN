@@ -74,7 +74,6 @@ This tutorial shows a walkthrough on  how to use a Virtual Private Network and h
 
 
 
-
   
 </p>
 
