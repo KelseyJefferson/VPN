@@ -58,13 +58,23 @@ This tutorial shows a walkthrough on  how to use a Virtual Private Network and h
 
 <p>
  Download ProtonVPN to your Windows 10 and Connect to the server. 
- <img width="3825" height="2061" alt="Screenshot 2026-06-24 170113" src="https://github.com/user-attachments/assets/7419b7e3-58fd-44ce-a06a-89dcacfde2ab" />
-<img width="3811" height="2020" alt="Screenshot 2026-06-24 170147" src="https://github.com/user-attachments/assets/e64a3f09-b906-49c6-9b1f-6f392fce2422" />
-<img width="3199" height="1412" alt="image" src="https://github.com/user-attachments/assets/1bf9332f-0ff1-4ead-a487-fb6f2d6917f3" />
+<img width="3809" height="2036" alt="Screenshot 2026-06-24 170433" src="https://github.com/user-attachments/assets/247d190f-dae5-4f95-bc57-49a7365ca4e7" />
+<img width="3820" height="2016" alt="Screenshot 2026-06-24 170550" src="https://github.com/user-attachments/assets/c93f247c-09c2-4970-8ebf-db381df0b20d" />
+<img width="3766" height="2011" alt="Screenshot 2026-06-24 170613" src="https://github.com/user-attachments/assets/6c329004-cdf4-4e50-9e2d-85f3d8535403" />
+<img width="3820" height="2052" alt="Screenshot 2026-06-24 170643" src="https://github.com/user-attachments/assets/6e7f5efe-8fe7-4a3b-809d-da49132f359c" />
+<img width="3829" height="2016" alt="Screenshot 2026-06-24 170705" src="https://github.com/user-attachments/assets/0f61fff6-3626-46e3-ba30-56f3ceff4313" />
 
 <p>
   Once your connected to a server, Refresh Whatismyipaddress.com and your new VPN ip dadress should pop up. Throughout this lab, you should've seen the 3 times that your IP address has changed.
- <img width="3393" height="2937" alt="Screenshot_8-5-2026_212235_whatismyipaddress com" src="https://github.com/user-attachments/assets/42b9a6a1-bbd1-4375-a116-594daf2caa4f" />
+
+<img width="3060" height="1842" alt="image" src="https://github.com/user-attachments/assets/8f2d05ec-606b-40a1-96a6-cdf0fbcfce5c" />
+<img width="3107" height="1939" alt="image" src="https://github.com/user-attachments/assets/832b0ab1-14a1-481d-9239-14b903df6733" />
+<img width="3811" height="2038" alt="Screenshot 2026-06-24 171819" src="https://github.com/user-attachments/assets/8eb1271a-5712-4ace-97ea-314f1f1fbf65" />
+<img width="3816" height="2043" alt="Screenshot 2026-06-24 172031" src="https://github.com/user-attachments/assets/813fa1ab-ba78-468a-b8c8-739e1192e31f" />
+
+
+
+
   
 </p>
 
